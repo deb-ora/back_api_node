@@ -1,8 +1,8 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "ed2020",
-    DB: "db_posts",
+    PASSWORD: "Sideral.5",
+    DB: "git_ex",
     dialect: "mysql",
     pool: {
       max: 5,
